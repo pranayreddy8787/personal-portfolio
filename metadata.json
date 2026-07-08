@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A visually stunning and interactive personal portfolio with project showcases, skill inventory, contact messages portal, and an AI-assisted admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
